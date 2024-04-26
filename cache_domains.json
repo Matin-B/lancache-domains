@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "Webdade",
+			"description": "CDN for Webdade.com",
+			"domain_files": ["webdade.txt"]
 		}
 	]
 }
